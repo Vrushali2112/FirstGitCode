@@ -24,6 +24,11 @@ public class DateOfBirthTC extends BaseTest  {
 		driver=SetUpBrowser();
     	lp=new LoginPage(driver);
     	utobj=new CommonFunction();
+    	
+    	
+    	
+    	
+    	
 	}
 	@Test
 	public void selectDOBFacebook() throws InterruptedException
